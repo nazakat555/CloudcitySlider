@@ -1,0 +1,2 @@
+# CloudcitySlider
+Cloudcity Responsive Slider
